@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!assets/
+!*.html
+!README.md
+.DS_Store
+plugins/.DS_Store
+error_log
